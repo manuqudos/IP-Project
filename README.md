@@ -13,7 +13,7 @@ Moringa PREP Individual Projects
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
-{Still tring to work on the styling of the page. }
+{Am still trying to work on the styling of the page to make it more appealing. }
 ## Technologies Used
 {The languages and tools used to create this app are HTML, CSS, Atom and JavaScript. By using HTML, I have been able to come up with a basic webpage.}
 ## Support and contact details
