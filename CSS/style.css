@@ -4,6 +4,7 @@
   text-align: center;
   color: white;
   text-shadow: 2px 2px 5px #000000;
+  list-style-type: none;
 }
 .center {
     display: block;
@@ -13,4 +14,7 @@
 }
 img {
   box-shadow: 2px 2px 5px #000000;
+}
+h2 {
+  color: yellow;
 }
