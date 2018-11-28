@@ -1,3 +1,16 @@
-h1 {
-  color: orange;
+* {
+  background-color: grey;
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 5px #000000;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+img {
+  box-shadow: 2px 2px 5px #000000;
 }
